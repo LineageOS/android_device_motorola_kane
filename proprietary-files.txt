@@ -1,3 +1,5 @@
+# Device proprietary files - from motorola/kane_retail/kane_sprout:10/QSAS30.62-33-4/2d332, unless pinned
+
 # camera
 vendor/lib/hw/camera.exynos9610.so
 vendor/lib/libexynoscamera3.so
