@@ -24,5 +24,8 @@ TARGET_OTA_ASSERT_DEVICE := kane,one_vision
 # Kernel
 TARGET_KERNEL_CONFIG := kane_defconfig
 
+# Properties
+TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
+
 # inherit from the proprietary version
 -include vendor/motorola/kane/BoardConfigVendor.mk
