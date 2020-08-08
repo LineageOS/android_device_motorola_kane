@@ -15,3 +15,8 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lineage_kane.mk
+
+COMMON_LUNCH_CHOICES := \
+    lineage_kane-user \
+    lineage_kane-userdebug \
+    lineage_kane-eng
