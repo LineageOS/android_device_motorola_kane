@@ -28,4 +28,4 @@ TARGET_KERNEL_CONFIG := kane_defconfig
 TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
 
 # inherit from the proprietary version
--include vendor/motorola/kane/BoardConfigVendor.mk
+include vendor/motorola/kane/BoardConfigVendor.mk
