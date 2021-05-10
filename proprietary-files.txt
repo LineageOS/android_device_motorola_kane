@@ -1,12 +1,12 @@
-# Device proprietary files - from motorola/kane_retail/kane_sprout:10/QSAS30.62-33-12/e6aee, unless pinned
+## Device proprietary files - from motorola/kane_retail/kane_sprout:10/QSAS30.62-33-12/e6aee, unless pinned
 
-# camera
+## Camera
 vendor/lib/hw/camera.exynos9610.so
 vendor/lib/libexynoscamera3.so
 vendor/lib64/hw/camera.exynos9610.so
 vendor/lib64/libexynoscamera3.so
 
-# firmware
+## Firmware
 vendor/firmware/fimc_is_lib.bin
 vendor/firmware/fimc_is_rta.bin
 vendor/firmware/himax-hix83112a-hx83112a-0C00-208-kane.bin
@@ -27,16 +27,16 @@ vendor/firmware/setfile_5e9.bin
 vendor/firmware/setfile_6b2.bin
 vendor/firmware/setfile_gm1sp.bin
 
-# NFC
+## NFC
 vendor/etc/sec_s3nrn81_rfreg.bin
 
-# sensors
+## Sensors
 vendor/lib/hw/sensors.kane_sprout.so
 vendor/lib/sensors.chub.so
 vendor/lib64/hw/sensors.kane_sprout.so
 vendor/lib64/sensors.chub.so
 
-# ril
+## RIL
 vendor/lib/libril_sitril.so
 vendor/lib/libsitril.so
 vendor/lib64/libril_sitril.so

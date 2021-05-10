@@ -1,2 +1,5 @@
-ro.hardware.sensors=kane_sprout
+## IMEI
 ro.radio.imei.sv=18
+
+## Sensors
+ro.hardware.sensors=kane_sprout
