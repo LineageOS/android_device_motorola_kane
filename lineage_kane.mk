@@ -37,6 +37,6 @@ PRODUCT_GMS_CLIENTID_BASE := android-motorola
 ## Use the latest CTS approved build identifiers
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=kane_sprout \
-    PRIVATE_BUILD_DESC="10/QSAS30.62-33-4/2d332:user/release-keys"
+    PRIVATE_BUILD_DESC="11/RSA31.Q1-48-36-11/7365d8c:user/release-keys"
 
-BUILD_FINGERPRINT := motorola/kane_retail/kane_sprout:10/QSAS30.62-33-4/2d332:user/release-keys
+BUILD_FINGERPRINT := motorola/kane_retail/kane_sprout:11/RSA31.Q1-48-36-11/7365d8c:user/release-keys
