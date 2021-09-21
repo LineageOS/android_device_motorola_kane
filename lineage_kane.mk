@@ -28,15 +28,15 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 ## Device identifier, this must come after all inclusions
 PRODUCT_DEVICE := kane
 PRODUCT_NAME := lineage_kane
-PRODUCT_BRAND := Motorola
-PRODUCT_MODEL := One Vision
-PRODUCT_MANUFACTURER := Motorola
+PRODUCT_BRAND := motorola
+PRODUCT_MODEL := motorola one vision
+PRODUCT_MANUFACTURER := motorola
 
 PRODUCT_GMS_CLIENTID_BASE := android-motorola
 
 ## Use the latest CTS approved build identifiers
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRODUCT_NAME=kane_sprout \
-    PRIVATE_BUILD_DESC="10/QSAS30.62-33-4/2d332:user/release-keys"
+    PRODUCT_NAME=kane \
+    PRIVATE_BUILD_DESC="kane-user 10 QSAS30.62-33-4 2d332 release-keys"
 
 BUILD_FINGERPRINT := motorola/kane_retail/kane_sprout:10/QSAS30.62-33-4/2d332:user/release-keys
