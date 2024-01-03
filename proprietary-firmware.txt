@@ -1,0 +1,7 @@
+# Firmware - from motorola/kane_retail/kane_sprout:11/RSAS31.Q1-48-36-20/0a92a9:user/release-keys - (factory image).
+
+bootloader.img;AB
+keystorage.img;AB
+ldfw.img;AB
+logo.img;AB
+modem.img;AB
