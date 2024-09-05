@@ -10,7 +10,7 @@ function blob_fixup() {
     case "${1}" in
         # Missing libutils symbols
         vendor/lib*/sensors.chub.so|vendor/lib*/hw/sensors.kane_sprout.so)
-           [ "$2" = "" ] && return 0
+            [ "$2" = "" ] && return 0
             "${PATCHELF}" --replace-needed "libutils.so" "libutils-v32.so" "${2}"
             ;;
         # Remove libhidltransport/libhwbinder dependencies
