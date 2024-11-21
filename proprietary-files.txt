@@ -65,7 +65,7 @@ vendor/lib/libsitril-psensor.so
 vendor/lib/libsitril-sar.so
 vendor/lib/libsitril-se.so
 vendor/lib/libsitril-wlan.so
-vendor/lib/libsitril.so|dbd7d863f3e3bc68c81b8fd1623dda181f5dc99b
+vendor/lib/libsitril.so
 vendor/lib/vendor.samsung_slsi.telephony.hardware.oemservice@1.0.so
 vendor/lib/vendor.samsung_slsi.telephony.hardware.radio@1.0.so
 vendor/lib/vendor.samsung_slsi.telephony.hardware.radio@1.1.so
@@ -82,7 +82,7 @@ vendor/lib64/libsitril-psensor.so
 vendor/lib64/libsitril-sar.so
 vendor/lib64/libsitril-se.so
 vendor/lib64/libsitril-wlan.so
-vendor/lib64/libsitril.so|fc3cc9eb897136f617cb96787204321c015aeef5
+vendor/lib64/libsitril.so
 vendor/lib64/vendor.samsung_slsi.telephony.hardware.oemservice@1.0.so
 vendor/lib64/vendor.samsung_slsi.telephony.hardware.radio@1.0.so
 vendor/lib64/vendor.samsung_slsi.telephony.hardware.radio@1.1.so
