@@ -15,7 +15,7 @@ DEVICE_PATH := device/motorola/kane
 TARGET_OTA_ASSERT_DEVICE := kane,one_vision
 
 ## Kernel
-TARGET_KERNEL_CONFIG := kane_defconfig
+TARGET_KERNEL_CONFIG += ext_config/kane.config
 
 ## Properties
 TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
